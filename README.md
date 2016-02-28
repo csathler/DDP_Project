@@ -15,3 +15,8 @@ The system will calculate total points accrued for your team's performance as fo
 0 points awarded for losses
 
 NOTE: Please note the application was developed on a Mac and tested successfully with Chrome.
+
+For a presentation "pitch" on the system, navigate to the following link:
+http://rpubs.com/csathler/DDP_Project
+
+Thank you for reviwing my project!
